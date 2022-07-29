@@ -1,0 +1,39 @@
+.mat-card{
+    border-radius: 32px;
+    margin: 15px 15px;
+    padding: 20px;
+    border-color: crimson;
+}
+
+.mat-card#first-card{
+    padding: 0px;
+}
+
+.div#Portada{
+    display: flex;
+    z-index: 1;
+}
+
+.div·Perfil{
+    width: 100%;
+    border-radius: 32px 32px 0 0;
+}
+
+.profile-image{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-top: -110px;
+    z-index: 1;
+}
+
+.div#info-actions{
+    display: flex;
+}
+
+.div#info-data{
+    border-radius: 32px;
+    margin: 15px 15px;
+    padding: 20px;
+    border-color: crimson;
+}
